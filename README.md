@@ -1,7 +1,7 @@
 <div align="center">
   
 # 💫 About Me:
-Trying to balance my passion and mission.
+Trying to balance between my passion and mission.
 
 # 🌐 Socials:
 [![Discord](https://shorturl.at/WIlfh)](https://discord.gg/https://discord.com/invite/4rNSdvx5) 
