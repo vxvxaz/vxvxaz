@@ -4,7 +4,7 @@
 Trying to balance between my passion and mission.
 
 # 🌐 Socials:
-[![Discord](https://shorturl.at/WIlfh)](https://discord.gg/https://discord.com/invite/4rNSdvx5) 
+[![Discord](https://shorturl.at/WIlfh)](https://shorturl.at/zWT3W) 
 
 # 💻 Tech Stack:
 ![C++](https://shorturl.at/LqB4D) ![Lua](https://shorturl.at/qadiS)
